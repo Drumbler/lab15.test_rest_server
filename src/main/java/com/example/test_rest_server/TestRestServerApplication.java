@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestRestServerApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(TestRestServerApplication.class, args);
     }
 
